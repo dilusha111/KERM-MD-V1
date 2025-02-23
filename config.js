@@ -26,12 +26,7 @@ AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://capcuttemplatez.com/wp-content/uploads/2024/08/real-girl-pfp_4.webp",
-ALIVE_MSG: process.env.ALIVE_MSG || "> BUG BOT 😏
-> DEPLOY WHATSAPP ALL BOT 🚀
-> FB ACC UNLOCK 🚘
-> GOOGLE ACC RECOVERY 📱
-> WHATSAPP NUMBER BAND 💻
-> WHATSAPP NUMBER UNBAND ⌛",
+ALIVE_MSG: process.env.ALIVE_MSG || "> HI LACCANA LAMAYOHHHHH 💗 මෙ ඉන්නෙ මම ඔයාගේත් PHOTO එක්ක දාන්න හදුනගන්න 🥲",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".",
