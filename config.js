@@ -19,14 +19,14 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "bMwRQQYQ#_BTNpQ_Gpg7lo7T2tGSvFX7y1k4whux9rjYT5bVa2hE",
+SESSION_ID: process.env.SESSION_ID || "vEhEGITD#w-j1FHV1WIXN1FsbIyKRVBiO1FpDBJrqPvxnogSlrhM",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://capcuttemplatez.com/wp-content/uploads/2024/08/real-girl-pfp_4.webp",
-ALIVE_MSG: process.env.ALIVE_MSG || "> HI LACCANA LAMAYOHHHHH 💗 මෙ ඉන්නෙ මම ඔයාගේත් PHOTO එක්ක දාන්න හදුනගන්න 🥲",
+ALIVE_MSG: process.env.ALIVE_MSG || "> HI LACCANA LAMAYOHHHHH",
 ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".",
